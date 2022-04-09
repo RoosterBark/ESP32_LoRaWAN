@@ -24,10 +24,10 @@
 #include "Arduino.h"
 
 
-const char* ssid = "Your_WiFi_Name";
-const char* password = "Your_WiFi_Password";
+const char* ssid = "Jackson";
+const char* password = "YayasPlace2g";
 
-uint32_t  license[4] = {0xD5397DF0, 0x8573F814, 0x7A38C73D, 0x48E68607};
+uint32_t  license[4] = {0x7C250D9D,0xB6C7E3C3,0x7DF854D7,0xC070AA86};
 
 /* OTAA para*/
 uint8_t DevEui[] = { 0x22, 0x32, 0x33, 0x00, 0x00, 0x88, 0x88, 0x02 };

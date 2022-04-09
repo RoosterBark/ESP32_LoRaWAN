@@ -31,7 +31,7 @@
 #include "Arduino.h"
 
 /*license for Heltec ESP32 LoRaWan, quary your ChipID relevant license: http://resource.heltec.cn/search */
-uint32_t  license[4] = {0x4915A653,0xC69E42EE,0x0D9EA6D4,0xB5201468};
+uint32_t  license[4] = {0xBC24FD9B,0xA6E8D3CC,0x3DF1F4F6,0x7768E6FE};
 
 /* OTAA para*/
 uint8_t DevEui[] = { 0x22, 0x32, 0x33, 0x00, 0x00, 0x88, 0x88, 0x02 };

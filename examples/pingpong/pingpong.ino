@@ -29,7 +29,7 @@
 #include "Arduino.h"
 
 
-#define RF_FREQUENCY                                868000000 // Hz
+#define RF_FREQUENCY                                915000000 // Hz
 
 #define TX_OUTPUT_POWER                             15        // dBm
 
